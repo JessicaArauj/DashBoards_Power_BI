@@ -25,4 +25,4 @@ O dashboard oferece as seguintes funcionalidades:
 ## Instalação e Uso
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone https://github.com/JessicaArauj/DashBoards_Power_BI/tree/main/Comercial%20e%20Vendas
