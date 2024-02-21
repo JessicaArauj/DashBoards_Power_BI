@@ -1,4 +1,4 @@
-# 📊 Dashboards em Power BI
+# 📊 Dashboard's em Power BI
 
 Este repositório contém uma coleção de dashboards elaborados utilizando o Power BI, uma ferramenta poderosa para visualização e análise de dados.
 
