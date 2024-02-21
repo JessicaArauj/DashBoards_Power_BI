@@ -10,7 +10,12 @@ Neste repositório, você encontrará uma variedade de dashboards de diversas fr
 
 Para utilizar os dashboards disponíveis neste repositório, siga estas etapas:
 
-1. **Clonar o Repositório:** Clone ou faça o download deste repositório para o sua máquina local.
+1. **Clonar o Repositório:** Clone, faça o download ou fork deste repositório para o sua máquina local ou GitHub.
+
+Clone o repositório:
+   ```bash
+   git clone https://github.com/JessicaArauj/DashBoards_Power_BI
+
 
 2. **Abrir o Dashboard:** Navegue até o arquivo `.pbix` correspondente ao dashboard que deseja visualizar e abra-o utilizando o Power BI Desktop.
 
