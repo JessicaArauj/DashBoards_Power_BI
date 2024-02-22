@@ -1,4 +1,4 @@
-# Dashboard de Vendas 📊
+# 📊 Dashboard de Vendas Globais
 
 ## Objetivo
 Este dashboard foi desenvolvido para fornecer insights sobre os dados de vendas da empresa. Ele permite responder às seguintes perguntas:
@@ -11,7 +11,7 @@ Este dashboard foi desenvolvido para fornecer insights sobre os dados de vendas 
 
 - Qual foi a média de desconto nas vendas por subcategoria de produto?
 
-- Quais países tiveram maior média de valor de venda? Demonstre em um mapa.
+- Quais países tiveram maior média de valor de venda? Demonstração em mapa.
 
 ## Funcionalidades do Dashboard
 O dashboard oferece as seguintes funcionalidades:
