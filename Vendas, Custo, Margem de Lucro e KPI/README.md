@@ -1,5 +1,9 @@
 # 📊 Dashboard de Vendas, Custo, Margem de Lucro e KPI
 
+<div align="center">
+<img src="Dashboard.jpeg" width="1050px" />
+</div>
+
 ## Objetivo
 Este dashboard foi desenvolvido para fornecer insights sobre os dados de vendas, custo, margem de lucro e KPI da empresa. Ele permite responder às seguintes perguntas:
 
@@ -17,7 +21,7 @@ Este dashboard foi desenvolvido para fornecer insights sobre os dados de vendas,
 ## Funcionalidades do Dashboard
 O dashboard oferece as seguintes funcionalidades:
 
-- 
+- Filtro por Ano e Mês.
 
 ## Tecnologias Utilizadas
 - **Power BI**: Versão Desktop PT-BR
