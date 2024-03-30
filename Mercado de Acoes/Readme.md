@@ -22,4 +22,4 @@ O dashboard oferece as seguintes funcionalidades:
 ## Instalação e Uso
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/JessicaArauj/DashBoards_Power_BI/tree/main/Mercado%20de%20Acoes]
+   git clone https://github.com/JessicaArauj/DashBoards_Power_BI/tree/main/Mercado%20de%20Acoes
