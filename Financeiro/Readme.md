@@ -1,7 +1,8 @@
 # 📊 Dashboard de Vendas Globais
 
 <div align="center">
-<img src="C:\Users\Jessica\Desktop\DashBoards_Power_BI\Financeiro\DashboardFinanceiro.png" width="1050px" />
+
+<img src="https://github.com/JessicaArauj/DashBoards_Power_BI/blob/main/Financeiro/DashboardFinanceiro.png" width="1050px" />
 
 </div>
 
