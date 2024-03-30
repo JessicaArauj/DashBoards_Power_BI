@@ -1,24 +1,14 @@
 # 📊 Dashboard Contabilidade
 
-<!-- <div align="center">
+<div align="center">
 
-<img src="https://github.com/JessicaArauj/DashBoards_Power_BI/blob/main/Financeiro/DashboardFinanceiro.png" width="1050px" />
+<img src="https://github.com/JessicaArauj/DashBoards_Power_BI/blob/main/Contabilidade/Balancocontabil.png" width="1050px" />
 
-</div> -->
+</div>
 
 
 ## Objetivo
-Este dashboard foi desenvolvido para fornecer insights sobre os dados contábeis da empresa. Ele permite responder às seguintes perguntas:
-
-<!-- - Total de receitas?
-
-- Total de despesas?
-
-- Margem de lucro?
-
-- Total de receitas ou despesas por categoria?
-
-- Total  de  receitas e  despesas por  categoria  e ano, com  a  hierarquia tipo / categoria. -->
+Este dashboard foi desenvolvido para fornecer insights sobre os dados contábeis da empresa. Ele permite visualizar o balanço financeiro.
 
 ## Funcionalidades do Dashboard
 O dashboard oferece as seguintes funcionalidades:
