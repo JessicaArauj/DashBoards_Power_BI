@@ -13,7 +13,7 @@ Este dashboard foi desenvolvido para fornecer insights sobre os dados contábeis
 ## Funcionalidades do Dashboard
 O dashboard oferece as seguintes funcionalidades:
 
-- Filtros por data para permitir aos usuários personalizar a visualização dos dados conforme necessário.
+- Visuais por valor para permitir aos usuários a visualização dos dados de forma eficaz e ágil.
 
 ## Tecnologias Utilizadas
 - **Power BI**: Versão Desktop PT-BR
