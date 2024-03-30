@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="" width="1050px" />
+<img src="https://github.com/JessicaArauj/DashBoards_Power_BI/blob/main/Mercado%20de%20Acoes/MercadoAcoes.png" width="1050px" />
 
 </div>
 
