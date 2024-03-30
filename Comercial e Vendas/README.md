@@ -1,5 +1,11 @@
 # 📊 Dashboard de Vendas Globais
 
+<div align="center">
+
+<img src="https://github.com/JessicaArauj/DashBoards_Power_BI/blob/main/Comercial%20e%20Vendas/Dashboard%20Vendas%20Globais.png" width="1050px" />
+
+</div>
+
 ## Objetivo
 Este dashboard foi desenvolvido para fornecer insights sobre os dados de vendas da empresa. Ele permite responder às seguintes perguntas:
 
@@ -20,7 +26,7 @@ O dashboard oferece as seguintes funcionalidades:
 
 ## Tecnologias Utilizadas
 - **Power BI**: Versão Desktop PT-BR
-- **Banco de Dados**: Arquivo .csv
+- **Banco de Dados**: Arquivo.csv
 
 ## Instalação e Uso
 1. Clone o repositório:
