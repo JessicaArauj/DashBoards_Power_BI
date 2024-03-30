@@ -1,4 +1,4 @@
-# 📊 Dashboard de Vendas Globais
+# 📊 Dashboard Financeiro
 
 <div align="center">
 
