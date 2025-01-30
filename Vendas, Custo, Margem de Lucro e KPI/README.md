@@ -1,7 +1,7 @@
 # 📊 Dashboard de Vendas, Custo, Margem de Lucro e KPI
 
 <div align="center">
-<img src="Dashboard.jpeg" width="1050px" />
+<img src="Dashboard.png" width="1050px" />
 </div>
 
 ## Objetivo
